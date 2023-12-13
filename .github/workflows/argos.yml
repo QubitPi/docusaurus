@@ -2,9 +2,9 @@ name: Argos CI
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
   pull_request:
-    branches: [main]
+    branches: [main, master]
     types:
       # Those 3 are the default PR workflow activity types,
       # see https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#pull_request

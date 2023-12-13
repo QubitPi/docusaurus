@@ -156,11 +156,11 @@ export default async function createConfigAsync() {
   return {
     title: 'Docusaurus',
     tagline: getLocalizedConfigValue('tagline'),
-    organizationName: 'facebook',
+    organizationName: 'QubitPi',
     projectName: 'docusaurus',
     baseUrl,
     baseUrlIssueBanner: true,
-    url: 'https://docusaurus.io',
+    url: 'https://docusaurus.qubitpi.org',
     future: {
       experimental_faster: !isSlower,
       experimental_storage: {
