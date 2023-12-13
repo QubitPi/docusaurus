@@ -276,6 +276,7 @@ Pyltsyn
 QJPUV
 Qovery
 quasis
+Qubit
 Quddus
 Quddús
 quickwit
