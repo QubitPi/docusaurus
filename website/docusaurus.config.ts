@@ -85,7 +85,7 @@ const isBranchDeploy =
 // Used to debug production build issues faster
 const isBuildFast = !!process.env.BUILD_FAST;
 
-const baseUrl = process.env.BASE_URL ?? '/';
+const baseUrl = process.env.BASE_URL ?? '/docusaurus';
 
 // Special deployment for staging locales until they get enough translations
 // https://app.netlify.com/sites/docusaurus-i18n-staging
@@ -120,11 +120,11 @@ export default async function createConfigAsync() {
   return {
     title: 'Docusaurus',
     tagline: getLocalizedConfigValue('tagline'),
-    organizationName: 'facebook',
+    organizationName: 'QubitPi',
     projectName: 'docusaurus',
     baseUrl,
     baseUrlIssueBanner: true,
-    url: 'https://docusaurus.io',
+    url: 'https://QubitPi.github.io',
     // Dogfood both settings:
     // - force trailing slashes for deploy previews
     // - avoid trailing slashes in prod
