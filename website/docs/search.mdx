@@ -43,13 +43,58 @@ You can read more about migration from the legacy DocSearch infra in [our blog p
 
 :::
 
+### (Optional) Setup CNAME for GitHub Pages Custom Domain
+
+#### Prerequisites
+
+1. A [Squarespace domain](https://domains.squarespace.com/) (or any DNS-configurable domains owned)
+2. A GitHub user/org site repository in the `<user>/<org>.github.io` format. Follow [this tutorial](https://pages.github.com/) to set one up if not yet.
+
+#### Configuration on GitHub Pages Side
+
+GitHub Pages is a static site hosting service that serves our custom website at a URL directly from a GitHub repository. Our user site repository automatically publishes updates to a URL of the same name, `<user>/<org>.github.io`. We need to enable the settings that allow an alternative domain to point to the content hosted in this repository in the following steps
+
+1. Navigate to our `<user>/<org>.github.io` repository in the GitHub web application, and select **Settings** from the navigation menu.
+2. Scroll down to the **Code and automation** > **Pages** section.
+3. Note the selected branch and folder in the **Source** section. GitHub will automatically publish any content committed to this branch in this directory to our website.
+4. In the **Custom domain** input, enter our Squarespace domain name. For example, `www.my-domain.com`
+5. Ensure that **Enforce HTTPS** is selected. Note that it can take up to a day before this option is available.
+6. At the top of the page, select **Code** from the navigation menu.
+7. Select the branch from the drop-down menu you configured in the **Code and automation** > **Pages** > **Source** section.
+8. You should now see a file entitled _CNAME_ containing your domain name.
+
+#### Configuration on Domain Provider Side (Squarespace)
+
+Next, we need to point our custom domain's DNS record to GitHub’s servers.
+
+1. Navigate to `https://account.squarespace.com/domains`.
+2. Find the domain name that we have configured our `<user>/<org>.github.io` repository to point to.
+3. Select **DNS Settings** from the sidebar navigation.
+4. Add an "A" record with host "@" for each GitHub Pages IP address. Use the `dig <user>/<org>.github.io +nostats +nocomments +nocmd` command to get this list. At the time of authorship, they were `185.199.108.153`, `185.199.110.153`, `185.199.111.153`, and `185.199.109.153`.
+5. Add a "CNAME" record with host "www" to point our subdomain to `<user>/<org>.github.io`.
+
+   :::warning
+
+   The `CNAME` record should always point to `<user>.github.io` or `<organization>.github.io`, excluding the repository name
+
+   :::
+
+![Error loading squarespace-dns.png](img/squarespace-dns.png)
+
 ### Index Configuration {#algolia-index-configuration}
 
 After your application has been approved and deployed, you will receive an email with all the details for you to add DocSearch to your project. Editing and managing your crawls can be done via [the web interface](https://crawler.algolia.com/). Indices are readily available after deployment, so manual configuration usually isn't necessary.
 
 :::tip
 
-It is highly recommended to use a config similar to the [**Docusaurus v3 website config**](https://docsearch.algolia.com/docs/templates/#docusaurus-v2-template).
+It is highly recommended to use a config similar to the [**Docusaurus v3 website config**](https://docsearch.algolia.com/docs/templates/#docusaurus-v2-template). Because [the problem](https://github.com/facebook/docusaurus/issues/7647) is a recent update of Docusaurus, since which contextual search is enabled by default. The problem: Algolia's default config for Docusaurus v1 and older Docusaurus v2 versions didn't have an option for this attribute to configure the crawler.
+
+To resolve:
+
+1. Delete the current index
+2. Directly create the crawler at https://crawler.algolia.com/admin/crawlers/create
+3. Re-run crawler (will create an index).
+4. Redeploy the Docusaurus site.
 
 :::
 
