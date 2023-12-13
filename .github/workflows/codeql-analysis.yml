@@ -4,10 +4,12 @@ on:
   push:
     branches:
       - main
+      - master
       - docusaurus-v**
   pull_request:
     branches:
       - main
+      - master
       - docusaurus-v**
   schedule:
     - cron: 25 22 * * 3
