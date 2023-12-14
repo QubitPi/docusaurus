@@ -219,10 +219,13 @@ netrc
 Nextra
 ngryman
 Nisarag
+nocmd
+nocomments
 noflash
 noicon
 nojekyll
 noninteractive
+nostats
 npmjs
 nprogress
 Nuxt
@@ -342,6 +345,8 @@ sluggify
 solana
 Solana
 spâce
+Squarespace
+squarespace
 stackblitz
 stackblitzrc
 stackoverflow
