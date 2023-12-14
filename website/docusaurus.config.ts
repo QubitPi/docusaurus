@@ -85,7 +85,7 @@ const isBranchDeploy =
 // Used to debug production build issues faster
 const isBuildFast = !!process.env.BUILD_FAST;
 
-const baseUrl = process.env.BASE_URL ?? '/docusaurus';
+const baseUrl = process.env.BASE_URL ?? '/docusaurus/';
 
 // Special deployment for staging locales until they get enough translations
 // https://app.netlify.com/sites/docusaurus-i18n-staging
