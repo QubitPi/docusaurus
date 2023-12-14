@@ -185,10 +185,13 @@ navlink
 netrc
 newtab
 Nisarag
+nocmd
+nocomments
 noflash
 noicon
 nojekyll
 noninteractive
+nostats
 npmjs
 Nuxt
 opensearch
@@ -290,6 +293,8 @@ Smoosh
 Solana
 solana
 spâce
+Squarespace
+squarespace
 stackblitz
 stackoverflow
 Stormkit
