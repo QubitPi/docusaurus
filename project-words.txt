@@ -280,6 +280,7 @@ QJPUV
 Qovery
 quasis
 Qubit
+qubitpi
 Quddus
 Quddús
 quickwit
@@ -331,8 +332,8 @@ sluggify
 solana
 Solana
 spâce
-Squarespace
 squarespace
+Squarespace
 stackblitz
 stackblitzrc
 Stormkit
