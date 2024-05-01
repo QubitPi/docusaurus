@@ -37,13 +37,13 @@ jobs:
         uses: treosh/lighthouse-ci-action@fcd65974f7c4c2bf0ee9d09b84d2489183c29726 # 12.6.1
         with:
           urls: |
-            http://localhost:3000/docusaurus/
-            http://localhost:3000/docusaurus/docs/installation
-            http://localhost:3000/docusaurus/docs/category/getting-started
-            http://localhost:3000/docusaurus/blog
-            http://localhost:3000/docusaurus/blog/preparing-your-site-for-docusaurus-v3
-            http://localhost:3000/docusaurus/blog/tags/release
-            http://localhost:3000/docusaurus/blog/tags
+            http://localhost:3000/
+            http://localhost:3000/docs/installation
+            http://localhost:3000/docs/category/getting-started
+            http://localhost:3000/blog
+            http://localhost:3000/blog/preparing-your-site-for-docusaurus-v3
+            http://localhost:3000/blog/tags/release
+            http://localhost:3000/blog/tags
           configPath: ./.github/workflows/lighthouserc.json
           uploadArtifacts: true
           temporaryPublicStorage: true
