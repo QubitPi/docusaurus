@@ -8,15 +8,15 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <copyright>Copyright © 2023 Facebook, Inc.</copyright>
+        <copyright>Copyright © 2024 Facebook, Inc.</copyright>
         <item>
             <title><![CDATA[Ensure heading anchor slugs respect GitHub emoji behavior]]></title>
-            <link>https://QubitPi.github.io/docusaurus/tests/blog/2023/08/05/</link>
-            <guid>https://QubitPi.github.io/docusaurus/tests/blog/2023/08/05/</guid>
+            <link>https://QubitPi.github.io/docusaurus/tests/blog/2023/08/05</link>
+            <guid>https://QubitPi.github.io/docusaurus/tests/blog/2023/08/05</guid>
             <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[This is a friendly header]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="smiley-this-is-a-friendly-header">😃<!-- --> This is a friendly header<a href="https://qubitpi.github.io/docusaurus/tests/blog/2023/08/05/#smiley-this-is-a-friendly-header" class="hash-link" aria-label="Direct link to smiley-this-is-a-friendly-header" title="Direct link to smiley-this-is-a-friendly-header">​</a></h2>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="-this-is-a-friendly-header-real-smiley">😃 This is a friendly header (real smiley)<a href="https://qubitpi.github.io/docusaurus/tests/blog/2023/08/05/#-this-is-a-friendly-header-real-smiley" class="hash-link" aria-label="Direct link to 😃 This is a friendly header (real smiley)" title="Direct link to 😃 This is a friendly header (real smiley)">​</a></h2>]]></content:encoded>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="smiley-this-is-a-friendly-header">😃<!-- --> This is a friendly header<a href="https://qubitpi.github.io/docusaurus/tests/blog/2023/08/05#smiley-this-is-a-friendly-header" class="hash-link" aria-label="Direct link to smiley-this-is-a-friendly-header" title="Direct link to smiley-this-is-a-friendly-header">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="-this-is-a-friendly-header-real-smiley">😃 This is a friendly header (real smiley)<a href="https://qubitpi.github.io/docusaurus/tests/blog/2023/08/05#-this-is-a-friendly-header-real-smiley" class="hash-link" aria-label="Direct link to 😃 This is a friendly header (real smiley)" title="Direct link to 😃 This is a friendly header (real smiley)">​</a></h2>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Test if href in feed resolved correctly]]></title>
@@ -42,7 +42,6 @@
             <description><![CDATA[This is a blog post with an html slug!]]></description>
             <content:encoded><![CDATA[<p>This is a blog post with an html slug!</p>
 <!-- -->
-<!-- -->
 <p>This is a blog partial</p>]]></content:encoded>
             <category>paginated-tag</category>
         </item>
@@ -55,6 +54,7 @@
             <content:encoded><![CDATA[<p>foo<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/04/20/dup-footnote#user-content-fn-1-0a1759" id="user-content-fnref-1-0a1759" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></p>
 <p>bar<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/04/20/dup-footnote#user-content-fn-2-0a1759" id="user-content-fnref-2-0a1759" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup></p>
 <p>baz<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/04/20/dup-footnote#user-content-fn-3-0a1759" id="user-content-fnref-3-0a1759" data-footnote-ref="true" aria-describedby="footnote-label">3</a></sup></p>
+<!-- -->
 <section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithHideOnScrollNavbar_SSbb sr-only" id="footnote-label">Footnotes<a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/04/20/dup-footnote#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
 <ol>
 <li id="user-content-fn-1-0a1759">
@@ -78,6 +78,7 @@
             <content:encoded><![CDATA[<p>foo<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/01/22/dup-footnote#user-content-fn-1-5f4147" id="user-content-fnref-1-5f4147" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></p>
 <p>bar<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/01/22/dup-footnote#user-content-fn-2-5f4147" id="user-content-fnref-2-5f4147" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup></p>
 <p>baz<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/01/22/dup-footnote#user-content-fn-3-5f4147" id="user-content-fnref-3-5f4147" data-footnote-ref="true" aria-describedby="footnote-label">3</a></sup></p>
+<!-- -->
 <section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithHideOnScrollNavbar_SSbb sr-only" id="footnote-label">Footnotes<a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/01/22/dup-footnote#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
 <ol>
 <li id="user-content-fn-1-5f4147">
@@ -101,6 +102,7 @@
             <content:encoded><![CDATA[<p>foo<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/01/21/dup-footnote#user-content-fn-1-571702" id="user-content-fnref-1-571702" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></p>
 <p>bar<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/01/21/dup-footnote#user-content-fn-2-571702" id="user-content-fnref-2-571702" data-footnote-ref="true" aria-describedby="footnote-label">2</a></sup></p>
 <p>baz<sup><a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/01/21/dup-footnote#user-content-fn-3-571702" id="user-content-fnref-3-571702" data-footnote-ref="true" aria-describedby="footnote-label">3</a></sup></p>
+<!-- -->
 <section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithHideOnScrollNavbar_SSbb sr-only" id="footnote-label">Footnotes<a href="https://qubitpi.github.io/docusaurus/tests/blog/2022/01/21/dup-footnote#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
 <ol>
 <li id="user-content-fn-1-571702">
@@ -143,7 +145,6 @@
 <!-- -->
 <p>Test MDX with require calls</p>
 <!-- -->
-<!-- -->
 <img src="https://qubitpi.github.io/docusaurus/img/docusaurus.png">
 <img>
 <img>]]></content:encoded>
@@ -164,7 +165,6 @@
 <!-- -->
 <h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="imports">Imports<a href="https://qubitpi.github.io/docusaurus/tests/blog/2021/10/07/blog-post-mdx-feed-tests#imports" class="hash-link" aria-label="Direct link to Imports" title="Direct link to Imports">​</a></h2>
 <p>Here are some imports:</p>
-<!-- -->
 <!-- -->
 <h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="exports">Exports<a href="https://qubitpi.github.io/docusaurus/tests/blog/2021/10/07/blog-post-mdx-feed-tests#exports" class="hash-link" aria-label="Direct link to Exports" title="Direct link to Exports">​</a></h2>
 <p>Here are some exports:</p>
@@ -214,7 +214,6 @@
             <pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[This is a blog post from an anonymous author!]]></description>
             <content:encoded><![CDATA[<p>This is a blog post from an anonymous author!</p>
-<!-- -->
 <!-- -->
 <p>This is a blog partial</p>]]></content:encoded>
             <category>paginated-tag</category>
