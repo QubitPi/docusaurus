@@ -4,8 +4,8 @@
   <ShortName>Docusaurus</ShortName>
   <Description>Search Docusaurus</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://QubitPi.github.io/docusaurus/img/docusaurus.ico</Image>
-  <Url type="text/html" method="get" template="https://QubitPi.github.io/docusaurus/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://QubitPi.github.io/docusaurus/opensearch.xml" />
-  <moz:SearchForm>https://QubitPi.github.io/docusaurus/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docusaurus.qubitpi.org/img/docusaurus.ico</Image>
+  <Url type="text/html" method="get" template="https://docusaurus.qubitpi.org/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docusaurus.qubitpi.org/opensearch.xml" />
+  <moz:SearchForm>https://docusaurus.qubitpi.org/</moz:SearchForm>
 </OpenSearchDescription>

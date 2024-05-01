@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Docusaurus changelog</title>
-        <link>https://QubitPi.github.io/docusaurus/changelog</link>
+        <link>https://docusaurus.qubitpi.org/changelog</link>
         <description>Keep yourself up-to-date about new features in every release</description>
         <lastBuildDate>Thu, 04 Apr 2024 20:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -11,11 +11,11 @@
         <copyright>Copyright © 2024 Facebook, Inc.</copyright>
         <item>
             <title><![CDATA[3.2.1]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/3.2.1</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/3.2.1</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/3.2.1</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/3.2.1</guid>
             <pubDate>Thu, 04 Apr 2024 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/3.2.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus</code>
 <ul>
@@ -23,17 +23,17 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.1#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://docusaurus.qubitpi.org/changelog/3.2.1#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
 <ul>
 <li><a href="https://github.com/facebook/docusaurus/pull/9980" target="_blank" rel="noopener noreferrer">#9980</a> docs: remove old github action description (<a href="https://github.com/OzakIOne" target="_blank" rel="noopener noreferrer">@OzakIOne</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/10014" target="_blank" rel="noopener noreferrer">#10014</a> docs(website): fix SEO docs headTags example (<a href="https://github.com/OzakIOne" target="_blank" rel="noopener noreferrer">@OzakIOne</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/10004" target="_blank" rel="noopener noreferrer">#10004</a> docs(website): Announce v3.2 on website/homepage (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.1#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://docusaurus.qubitpi.org/changelog/3.2.1#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
 <ul>
 <li><a href="https://github.com/facebook/docusaurus/pull/10006" target="_blank" rel="noopener noreferrer">#10006</a> chore(deps): bump actions/dependency-review-action from 4.2.4 to 4.2.5 (<a href="https://github.com/apps/dependabot" target="_blank" rel="noopener noreferrer">@dependabot[bot]</a>)</li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-2">Committers: 2<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.1#committers-2" class="hash-link" aria-label="Direct link to Committers: 2" title="Direct link to Committers: 2">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-2">Committers: 2<a href="https://docusaurus.qubitpi.org/changelog/3.2.1#committers-2" class="hash-link" aria-label="Direct link to Committers: 2" title="Direct link to Committers: 2">​</a></h2>
 <ul>
 <li>Sébastien Lorber (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
 <li>ozaki (<a href="https://github.com/OzakIOne" target="_blank" rel="noopener noreferrer">@OzakIOne</a>)</li>
@@ -41,11 +41,11 @@
         </item>
         <item>
             <title><![CDATA[3.2.0]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/3.2.0</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/3.2.0</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/3.2.0</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/3.2.0</guid>
             <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/3.2.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-content-blog</code>, <code>docusaurus-plugin-content-docs</code>, <code>docusaurus-plugin-content-pages</code>, <code>docusaurus-plugin-sitemap</code>, <code>docusaurus-types</code>, <code>docusaurus-utils</code>, <code>docusaurus</code>
 <ul>
@@ -94,7 +94,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/3.2.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-mdx-loader</code>
 <ul>
@@ -146,7 +146,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="running-performance">:running: Performance<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.0#running-performance" class="hash-link" aria-label="Direct link to :running: Performance" title="Direct link to :running: Performance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="running-performance">:running: Performance<a href="https://docusaurus.qubitpi.org/changelog/3.2.0#running-performance" class="hash-link" aria-label="Direct link to :running: Performance" title="Direct link to :running: Performance">​</a></h2>
 <ul>
 <li><code>docusaurus-types</code>, <code>docusaurus-utils</code>, <code>docusaurus</code>
 <ul>
@@ -174,7 +174,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/3.2.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-content-blog</code>, <code>docusaurus-plugin-content-docs</code>, <code>docusaurus-theme-classic</code>, <code>docusaurus-theme-common</code>
 <ul>
@@ -192,7 +192,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.0#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://docusaurus.qubitpi.org/changelog/3.2.0#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
 <ul>
 <li><a href="https://github.com/facebook/docusaurus/pull/9937" target="_blank" rel="noopener noreferrer">#9937</a> docs: use official GitHub Action to deploy to GitHub Pages (<a href="https://github.com/vlad-nestorov" target="_blank" rel="noopener noreferrer">@vlad-nestorov</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/9971" target="_blank" rel="noopener noreferrer">#9971</a> docs: replace VuePress by VitePress on tool comparison section (<a href="https://github.com/sunkanmii" target="_blank" rel="noopener noreferrer">@sunkanmii</a>)</li>
@@ -203,7 +203,7 @@
 <li><a href="https://github.com/facebook/docusaurus/pull/9845" target="_blank" rel="noopener noreferrer">#9845</a> docs: typo (<a href="https://github.com/OzakIOne" target="_blank" rel="noopener noreferrer">@OzakIOne</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/9816" target="_blank" rel="noopener noreferrer">#9816</a> docs: Add docs for Mermaid Component (<a href="https://github.com/Its-Just-Nans" target="_blank" rel="noopener noreferrer">@Its-Just-Nans</a>)</li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.0#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://docusaurus.qubitpi.org/changelog/3.2.0#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
 <ul>
 <li><a href="https://github.com/facebook/docusaurus/pull/9981" target="_blank" rel="noopener noreferrer">#9981</a> chore(deps): bump actions/dependency-review-action from 4.1.3 to 4.2.4 (<a href="https://github.com/apps/dependabot" target="_blank" rel="noopener noreferrer">@dependabot[bot]</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/9982" target="_blank" rel="noopener noreferrer">#9982</a> chore(deps): bump katex from 0.16.8 to 0.16.10 (<a href="https://github.com/apps/dependabot" target="_blank" rel="noopener noreferrer">@dependabot[bot]</a>)</li>
@@ -217,7 +217,7 @@
 <li><a href="https://github.com/facebook/docusaurus/pull/9824" target="_blank" rel="noopener noreferrer">#9824</a> chore(deps): bump treosh/lighthouse-ci-action from 10.1.0 to 11.4.0 (<a href="https://github.com/apps/dependabot" target="_blank" rel="noopener noreferrer">@dependabot[bot]</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/9823" target="_blank" rel="noopener noreferrer">#9823</a> chore(deps): bump marocchino/sticky-pull-request-comment from 2.8.0 to 2.9.0 (<a href="https://github.com/apps/dependabot" target="_blank" rel="noopener noreferrer">@dependabot[bot]</a>)</li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.0#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://docusaurus.qubitpi.org/changelog/3.2.0#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-client-redirects</code>, <code>docusaurus-plugin-content-docs</code>, <code>docusaurus-utils-common</code>, <code>docusaurus-utils-validation</code>, <code>docusaurus-utils</code>, <code>docusaurus</code>
 <ul>
@@ -236,7 +236,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-22">Committers: 22<a href="https://qubitpi.github.io/docusaurus/changelog/3.2.0#committers-22" class="hash-link" aria-label="Direct link to Committers: 22" title="Direct link to Committers: 22">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-22">Committers: 22<a href="https://docusaurus.qubitpi.org/changelog/3.2.0#committers-22" class="hash-link" aria-label="Direct link to Committers: 22" title="Direct link to Committers: 22">​</a></h2>
 <ul>
 <li>Aolin (<a href="https://github.com/Oreoxmt" target="_blank" rel="noopener noreferrer">@Oreoxmt</a>)</li>
 <li>Anatoly Kopyl (<a href="https://github.com/anatolykopyl" target="_blank" rel="noopener noreferrer">@anatolykopyl</a>)</li>
@@ -264,11 +264,11 @@
         </item>
         <item>
             <title><![CDATA[3.1.1]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/3.1.1</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/3.1.1</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/3.1.1</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/3.1.1</guid>
             <pubDate>Fri, 26 Jan 2024 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/3.1.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-types</code>, <code>docusaurus</code>
 <ul>
@@ -307,7 +307,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="running-performance">:running: Performance<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.1#running-performance" class="hash-link" aria-label="Direct link to :running: Performance" title="Direct link to :running: Performance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="running-performance">:running: Performance<a href="https://docusaurus.qubitpi.org/changelog/3.1.1#running-performance" class="hash-link" aria-label="Direct link to :running: Performance" title="Direct link to :running: Performance">​</a></h2>
 <ul>
 <li><code>docusaurus</code>
 <ul>
@@ -315,7 +315,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.1#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/3.1.1#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>
 <ul>
@@ -323,7 +323,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-6">Committers: 6<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.1#committers-6" class="hash-link" aria-label="Direct link to Committers: 6" title="Direct link to Committers: 6">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-6">Committers: 6<a href="https://docusaurus.qubitpi.org/changelog/3.1.1#committers-6" class="hash-link" aria-label="Direct link to Committers: 6" title="Direct link to Committers: 6">​</a></h2>
 <ul>
 <li>Jack Robson (<a href="https://github.com/jack-robson" target="_blank" rel="noopener noreferrer">@jack-robson</a>)</li>
 <li>Sanjaiyan Parthipan (<a href="https://github.com/sanjaiyan-dev" target="_blank" rel="noopener noreferrer">@sanjaiyan-dev</a>)</li>
@@ -335,11 +335,11 @@
         </item>
         <item>
             <title><![CDATA[3.1.0]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/3.1.0</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/3.1.0</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/3.1.0</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/3.1.0</guid>
             <pubDate>Fri, 05 Jan 2024 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/3.1.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>docusaurus-mdx-loader</code>, <code>docusaurus-module-type-aliases</code>, <code>docusaurus-theme-classic</code>, <code>docusaurus-types</code>, <code>docusaurus-utils</code>, <code>docusaurus</code>
 <ul>
@@ -367,7 +367,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/3.1.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>, <code>docusaurus-theme-live-codeblock</code>
 <ul>
@@ -415,7 +415,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/3.1.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-common</code>
 <ul>
@@ -423,7 +423,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.0#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://docusaurus.qubitpi.org/changelog/3.1.0#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-search-algolia</code>
 <ul>
@@ -431,7 +431,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-8">Committers: 8<a href="https://qubitpi.github.io/docusaurus/changelog/3.1.0#committers-8" class="hash-link" aria-label="Direct link to Committers: 8" title="Direct link to Committers: 8">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-8">Committers: 8<a href="https://docusaurus.qubitpi.org/changelog/3.1.0#committers-8" class="hash-link" aria-label="Direct link to Committers: 8" title="Direct link to Committers: 8">​</a></h2>
 <ul>
 <li>Janessa Garrow (<a href="https://github.com/jgarrow" target="_blank" rel="noopener noreferrer">@jgarrow</a>)</li>
 <li>Joshua Chen (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
@@ -445,11 +445,11 @@
         </item>
         <item>
             <title><![CDATA[3.0.1]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/3.0.1</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/3.0.1</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/3.0.1</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/3.0.1</guid>
             <pubDate>Thu, 30 Nov 2023 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/3.0.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-utils</code>
 <ul>
@@ -478,7 +478,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.1#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://docusaurus.qubitpi.org/changelog/3.0.1#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-debug</code>
 <ul>
@@ -507,7 +507,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-6">Committers: 6<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.1#committers-6" class="hash-link" aria-label="Direct link to Committers: 6" title="Direct link to Committers: 6">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-6">Committers: 6<a href="https://docusaurus.qubitpi.org/changelog/3.0.1#committers-6" class="hash-link" aria-label="Direct link to Committers: 6" title="Direct link to Committers: 6">​</a></h2>
 <ul>
 <li>Chongyi Zheng (<a href="https://github.com/harryzcy" target="_blank" rel="noopener noreferrer">@harryzcy</a>)</li>
 <li>MCR Studio (<a href="https://github.com/mcrstudio" target="_blank" rel="noopener noreferrer">@mcrstudio</a>)</li>
@@ -519,11 +519,11 @@
         </item>
         <item>
             <title><![CDATA[3.0.0]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/3.0.0</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/3.0.0</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/3.0.0</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/3.0.0</guid>
             <pubDate>Tue, 31 Oct 2023 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="boom-breaking-change">💥 Breaking Change<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#boom-breaking-change" class="hash-link" aria-label="Direct link to 💥 Breaking Change" title="Direct link to 💥 Breaking Change">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="boom-breaking-change">💥 Breaking Change<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#boom-breaking-change" class="hash-link" aria-label="Direct link to 💥 Breaking Change" title="Direct link to 💥 Breaking Change">​</a></h2>
 <ul>
 <li><code>create-docusaurus</code>, <code>docusaurus-mdx-loader</code>, <code>docusaurus-plugin-content-blog</code>, <code>docusaurus-remark-plugin-npm2yarn</code>, <code>docusaurus-theme-classic</code>
 <ul>
@@ -596,7 +596,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>create-docusaurus</code>, <code>docusaurus-mdx-loader</code>, <code>docusaurus-plugin-content-blog</code>, <code>docusaurus-remark-plugin-npm2yarn</code>, <code>docusaurus-theme-classic</code>
 <ul>
@@ -697,7 +697,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-common</code>
 <ul>
@@ -819,7 +819,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="running-performance">:running: Performance<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#running-performance" class="hash-link" aria-label="Direct link to :running: Performance" title="Direct link to :running: Performance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="running-performance">:running: Performance<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#running-performance" class="hash-link" aria-label="Direct link to :running: Performance" title="Direct link to :running: Performance">​</a></h2>
 <ul>
 <li><code>docusaurus</code>
 <ul>
@@ -833,7 +833,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>
 <ul>
@@ -873,7 +873,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
 <ul>
 <li>Other
 <ul>
@@ -991,7 +991,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
 <ul>
 <li>Other
 <ul>
@@ -1116,7 +1116,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
 <ul>
 <li><code>docusaurus-migrate</code>
 <ul>
@@ -1162,7 +1162,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-132">Committers: 132<a href="https://qubitpi.github.io/docusaurus/changelog/3.0.0#committers-132" class="hash-link" aria-label="Direct link to Committers: 132" title="Direct link to Committers: 132">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-132">Committers: 132<a href="https://docusaurus.qubitpi.org/changelog/3.0.0#committers-132" class="hash-link" aria-label="Direct link to Committers: 132" title="Direct link to Committers: 132">​</a></h2>
 <ul>
 <li>0x24Karthick (<a href="https://github.com/KarthickSakthi" target="_blank" rel="noopener noreferrer">@KarthickSakthi</a>)</li>
 <li>Abhinandan Wadhwa (<a href="https://github.com/abhinandanwadwa" target="_blank" rel="noopener noreferrer">@abhinandanwadwa</a>)</li>
@@ -1300,11 +1300,11 @@
         </item>
         <item>
             <title><![CDATA[2.4.3]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.4.3</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.4.3</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.4.3</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.4.3</guid>
             <pubDate>Wed, 20 Sep 2023 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.3#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.4.3#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-content-docs</code>
 <ul>
@@ -1324,7 +1324,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-4">Committers: 4<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.3#committers-4" class="hash-link" aria-label="Direct link to Committers: 4" title="Direct link to Committers: 4">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-4">Committers: 4<a href="https://docusaurus.qubitpi.org/changelog/2.4.3#committers-4" class="hash-link" aria-label="Direct link to Committers: 4" title="Direct link to Committers: 4">​</a></h2>
 <ul>
 <li>Mikey O'Toole (<a href="https://github.com/homotechsual" target="_blank" rel="noopener noreferrer">@homotechsual</a>)</li>
 <li>Ori Shalom (<a href="https://github.com/ori-shalom" target="_blank" rel="noopener noreferrer">@ori-shalom</a>)</li>
@@ -1334,19 +1334,19 @@
         </item>
         <item>
             <title><![CDATA[2.4.2]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.4.2</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.4.2</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.4.2</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.4.2</guid>
             <pubDate>Wed, 20 Sep 2023 19:00:00 GMT</pubDate>
             <description><![CDATA[Bad npm publish, please use 2.4.3]]></description>
             <content:encoded><![CDATA[<p>Bad npm publish, please use 2.4.3</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2.4.1]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.4.1</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.4.1</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.4.1</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.4.1</guid>
             <pubDate>Mon, 15 May 2023 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.4.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>, <code>docusaurus-theme-common</code>
 <ul>
@@ -1390,7 +1390,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.1#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.4.1#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>
 <ul>
@@ -1398,7 +1398,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-7">Committers: 7<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.1#committers-7" class="hash-link" aria-label="Direct link to Committers: 7" title="Direct link to Committers: 7">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-7">Committers: 7<a href="https://docusaurus.qubitpi.org/changelog/2.4.1#committers-7" class="hash-link" aria-label="Direct link to Committers: 7" title="Direct link to Committers: 7">​</a></h2>
 <ul>
 <li>Aleksandr Vladykin (<a href="https://github.com/morsko1" target="_blank" rel="noopener noreferrer">@morsko1</a>)</li>
 <li>Andrew Lyons (<a href="https://github.com/andrewnicols" target="_blank" rel="noopener noreferrer">@andrewnicols</a>)</li>
@@ -1411,11 +1411,11 @@
         </item>
         <item>
             <title><![CDATA[2.4.0]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.4.0</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.4.0</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.4.0</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.4.0</guid>
             <pubDate>Thu, 23 Mar 2023 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/2.4.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-content-docs</code>, <code>docusaurus-theme-classic</code>
 <ul>
@@ -1460,7 +1460,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.4.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>
 <ul>
@@ -1490,7 +1490,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.4.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>create-docusaurus</code>
 <ul>
@@ -1508,7 +1508,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-14">Committers: 14<a href="https://qubitpi.github.io/docusaurus/changelog/2.4.0#committers-14" class="hash-link" aria-label="Direct link to Committers: 14" title="Direct link to Committers: 14">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-14">Committers: 14<a href="https://docusaurus.qubitpi.org/changelog/2.4.0#committers-14" class="hash-link" aria-label="Direct link to Committers: 14" title="Direct link to Committers: 14">​</a></h2>
 <ul>
 <li>Anas (<a href="https://github.com/Anasqx" target="_blank" rel="noopener noreferrer">@Anasqx</a>)</li>
 <li>Armano (<a href="https://github.com/armano2" target="_blank" rel="noopener noreferrer">@armano2</a>)</li>
@@ -1528,11 +1528,11 @@
         </item>
         <item>
             <title><![CDATA[2.3.1]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.3.1</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.3.1</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.3.1</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.3.1</guid>
             <pubDate>Fri, 03 Feb 2023 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.3.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.3.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-common</code>
 <ul>
@@ -1557,7 +1557,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.3.1#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.3.1#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-translations</code>
 <ul>
@@ -1565,7 +1565,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://qubitpi.github.io/docusaurus/changelog/2.3.1#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="robot-dependencies">🤖 Dependencies<a href="https://docusaurus.qubitpi.org/changelog/2.3.1#robot-dependencies" class="hash-link" aria-label="Direct link to 🤖 Dependencies" title="Direct link to 🤖 Dependencies">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-client-redirects</code>, <code>docusaurus-theme-search-algolia</code>, <code>docusaurus</code>
 <ul>
@@ -1573,7 +1573,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-3">Committers: 3<a href="https://qubitpi.github.io/docusaurus/changelog/2.3.1#committers-3" class="hash-link" aria-label="Direct link to Committers: 3" title="Direct link to Committers: 3">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-3">Committers: 3<a href="https://docusaurus.qubitpi.org/changelog/2.3.1#committers-3" class="hash-link" aria-label="Direct link to Committers: 3" title="Direct link to Committers: 3">​</a></h2>
 <ul>
 <li>Joshua Chen (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
 <li>Sébastien Castiel (<a href="https://github.com/scastiel" target="_blank" rel="noopener noreferrer">@scastiel</a>)</li>
@@ -1582,11 +1582,11 @@
         </item>
         <item>
             <title><![CDATA[2.3.0]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.3.0</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.3.0</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.3.0</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.3.0</guid>
             <pubDate>Thu, 26 Jan 2023 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/2.3.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/2.3.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-translations</code>
 <ul>
@@ -1619,7 +1619,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.3.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.3.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-mdx-loader</code>
 <ul>
@@ -1691,7 +1691,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.3.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.3.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>, <code>docusaurus</code>
 <ul>
@@ -1710,7 +1710,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-16">Committers: 16<a href="https://qubitpi.github.io/docusaurus/changelog/2.3.0#committers-16" class="hash-link" aria-label="Direct link to Committers: 16" title="Direct link to Committers: 16">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-16">Committers: 16<a href="https://docusaurus.qubitpi.org/changelog/2.3.0#committers-16" class="hash-link" aria-label="Direct link to Committers: 16" title="Direct link to Committers: 16">​</a></h2>
 <ul>
 <li>Danny Kim (<a href="https://github.com/0916dhkim" target="_blank" rel="noopener noreferrer">@0916dhkim</a>)</li>
 <li>Denis Al-Khelali (<a href="https://github.com/denis-alkhelali" target="_blank" rel="noopener noreferrer">@denis-alkhelali</a>)</li>
@@ -1733,11 +1733,11 @@
         </item>
         <item>
             <title><![CDATA[2.2.0]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.2.0</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.2.0</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.2.0</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.2.0</guid>
             <pubDate>Sat, 29 Oct 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/2.2.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/2.2.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-client-redirects</code>
 <ul>
@@ -1760,7 +1760,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.2.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.2.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-ideal-image</code>
 <ul>
@@ -1819,7 +1819,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.2.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.2.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-translations</code>
 <ul>
@@ -1846,7 +1846,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-22">Committers: 22<a href="https://qubitpi.github.io/docusaurus/changelog/2.2.0#committers-22" class="hash-link" aria-label="Direct link to Committers: 22" title="Direct link to Committers: 22">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-22">Committers: 22<a href="https://docusaurus.qubitpi.org/changelog/2.2.0#committers-22" class="hash-link" aria-label="Direct link to Committers: 22" title="Direct link to Committers: 22">​</a></h2>
 <ul>
 <li>Adnan Hashmi (<a href="https://github.com/adnanhashmi09" target="_blank" rel="noopener noreferrer">@adnanhashmi09</a>)</li>
 <li>Alexey Pyltsyn (<a href="https://github.com/lex111" target="_blank" rel="noopener noreferrer">@lex111</a>)</li>
@@ -1874,11 +1874,11 @@
         </item>
         <item>
             <title><![CDATA[2.1.0]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.1.0</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.1.0</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.1.0</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.1.0</guid>
             <pubDate>Thu, 01 Sep 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[New Feature]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/2.1.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/2.1.0#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>, <code>docusaurus-theme-common</code>
 <ul>
@@ -1897,7 +1897,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.1.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.1.0#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>create-docusaurus</code>
 <ul>
@@ -1928,7 +1928,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.1.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.1.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>
 <ul>
@@ -1953,7 +1953,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://qubitpi.github.io/docusaurus/changelog/2.1.0#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://docusaurus.qubitpi.org/changelog/2.1.0#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
 <ul>
 <li><code>create-docusaurus</code>
 <ul>
@@ -1966,7 +1966,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-10">Committers: 10<a href="https://qubitpi.github.io/docusaurus/changelog/2.1.0#committers-10" class="hash-link" aria-label="Direct link to Committers: 10" title="Direct link to Committers: 10">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-10">Committers: 10<a href="https://docusaurus.qubitpi.org/changelog/2.1.0#committers-10" class="hash-link" aria-label="Direct link to Committers: 10" title="Direct link to Committers: 10">​</a></h2>
 <ul>
 <li>Bagdasar Ovsepyan (<a href="https://github.com/b-ovsepian" target="_blank" rel="noopener noreferrer">@b-ovsepian</a>)</li>
 <li>Joshua Chen (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
@@ -1982,24 +1982,24 @@
         </item>
         <item>
             <title><![CDATA[2.0.1]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.0.1</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.0.1</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.0.1</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.0.1</guid>
             <pubDate>Mon, 01 Aug 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Fix bad npm publish of 2.0.0]]></description>
             <content:encoded><![CDATA[<p>Fix bad npm publish of 2.0.0</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-1">Committers: 1<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.1#committers-1" class="hash-link" aria-label="Direct link to Committers: 1" title="Direct link to Committers: 1">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-1">Committers: 1<a href="https://docusaurus.qubitpi.org/changelog/2.0.1#committers-1" class="hash-link" aria-label="Direct link to Committers: 1" title="Direct link to Committers: 1">​</a></h2>
 <ul>
 <li>Sébastien Lorber (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
 </ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2.0.0]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.0.0</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.0.0</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.0.0</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.0.0</guid>
             <pubDate>Mon, 01 Aug 2022 19:00:00 GMT</pubDate>
             <description><![CDATA[Bad npm publish, please use 2.0.1]]></description>
             <content:encoded><![CDATA[<p>Bad npm publish, please use 2.0.1</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.0.0#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus</code>
 <ul>
@@ -2007,7 +2007,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-2">Committers: 2<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0#committers-2" class="hash-link" aria-label="Direct link to Committers: 2" title="Direct link to Committers: 2">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-2">Committers: 2<a href="https://docusaurus.qubitpi.org/changelog/2.0.0#committers-2" class="hash-link" aria-label="Direct link to Committers: 2" title="Direct link to Committers: 2">​</a></h2>
 <ul>
 <li>Joshua Chen (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
 <li>Sébastien Lorber (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
@@ -2015,11 +2015,11 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-rc.1]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.0.0-rc.1</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.0.0-rc.1</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.0.0-rc.1</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.0.0-rc.1</guid>
             <pubDate>Thu, 14 Jul 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-rc.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-rc.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus</code>
 <ul>
@@ -2050,7 +2050,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-rc.1#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-rc.1#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-translations</code>
 <ul>
@@ -2058,7 +2058,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-rc.1#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-rc.1#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-content-docs</code>
 <ul>
@@ -2066,7 +2066,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-rc.1#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-rc.1#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>
 <ul>
@@ -2075,7 +2075,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-11">Committers: 11<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-rc.1#committers-11" class="hash-link" aria-label="Direct link to Committers: 11" title="Direct link to Committers: 11">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-11">Committers: 11<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-rc.1#committers-11" class="hash-link" aria-label="Direct link to Committers: 11" title="Direct link to Committers: 11">​</a></h2>
 <ul>
 <li>Arthur Brugière (<a href="https://github.com/RoiArthurB" target="_blank" rel="noopener noreferrer">@RoiArthurB</a>)</li>
 <li>Bruce Song (<a href="https://github.com/recallwei" target="_blank" rel="noopener noreferrer">@recallwei</a>)</li>
@@ -2092,11 +2092,11 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.22]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.0.0-beta.22</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.0.0-beta.22</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22</guid>
             <pubDate>Fri, 08 Jul 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="boom-breaking-change">💥 Breaking Change<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.22#boom-breaking-change" class="hash-link" aria-label="Direct link to 💥 Breaking Change" title="Direct link to 💥 Breaking Change">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="boom-breaking-change">💥 Breaking Change<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22#boom-breaking-change" class="hash-link" aria-label="Direct link to 💥 Breaking Change" title="Direct link to 💥 Breaking Change">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>
 <ul>
@@ -2129,7 +2129,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.22#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-translations</code>
 <ul>
@@ -2188,7 +2188,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.22#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>
 <ul>
@@ -2230,7 +2230,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.22#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-translations</code>
 <ul>
@@ -2278,7 +2278,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.22#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
 <ul>
 <li>Other
 <ul>
@@ -2306,7 +2306,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.22#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-classic</code>, <code>docusaurus-theme-common</code>
 <ul>
@@ -2336,7 +2336,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-51">Committers: 51<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.22#committers-51" class="hash-link" aria-label="Direct link to Committers: 51" title="Direct link to Committers: 51">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-51">Committers: 51<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.22#committers-51" class="hash-link" aria-label="Direct link to Committers: 51" title="Direct link to Committers: 51">​</a></h2>
 <ul>
 <li>7Wate (<a href="https://github.com/7Wate" target="_blank" rel="noopener noreferrer">@7Wate</a>)</li>
 <li>Ahmed Altomy (<a href="https://github.com/Altomy" target="_blank" rel="noopener noreferrer">@Altomy</a>)</li>
@@ -2393,11 +2393,11 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.21]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.0.0-beta.21</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.0.0-beta.21</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21</guid>
             <pubDate>Fri, 27 May 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Breaking Change]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="boom-breaking-change">💥 Breaking Change<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.21#boom-breaking-change" class="hash-link" aria-label="Direct link to 💥 Breaking Change" title="Direct link to 💥 Breaking Change">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="boom-breaking-change">💥 Breaking Change<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21#boom-breaking-change" class="hash-link" aria-label="Direct link to 💥 Breaking Change" title="Direct link to 💥 Breaking Change">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-pwa</code>
 <ul>
@@ -2410,7 +2410,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.21#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="rocket-new-feature">🚀 New Feature<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21#rocket-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h2>
 <ul>
 <li><code>docusaurus-plugin-sitemap</code>
 <ul>
@@ -2434,7 +2434,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.21#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus</code>
 <ul>
@@ -2484,7 +2484,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.21#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="nail_care-polish">💅 Polish<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21#nail_care-polish" class="hash-link" aria-label="Direct link to 💅 Polish" title="Direct link to 💅 Polish">​</a></h2>
 <ul>
 <li><code>docusaurus-theme-translations</code>
 <ul>
@@ -2504,14 +2504,14 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.21#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
 <ul>
 <li><a href="https://github.com/facebook/docusaurus/pull/7503" target="_blank" rel="noopener noreferrer">#7503</a> docs: document MDXComponents scope (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/7497" target="_blank" rel="noopener noreferrer">#7497</a> docs: link every reference of types in API table to the type definition (<a href="https://github.com/Zamiell" target="_blank" rel="noopener noreferrer">@Zamiell</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/7407" target="_blank" rel="noopener noreferrer">#7407</a> docs: add Azure SWA as deployment option (<a href="https://github.com/nitya" target="_blank" rel="noopener noreferrer">@nitya</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/7390" target="_blank" rel="noopener noreferrer">#7390</a> fix(website): use react-lite-youtube-embed for lazy YouTube video (<a href="https://github.com/matkoch" target="_blank" rel="noopener noreferrer">@matkoch</a>)</li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.21#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
 <ul>
 <li><code>create-docusaurus</code>, <code>docusaurus-logger</code>, <code>docusaurus-mdx-loader</code>, <code>docusaurus-migrate</code>, <code>docusaurus-module-type-aliases</code>, <code>docusaurus-plugin-client-redirects</code>, <code>docusaurus-plugin-content-blog</code>, <code>docusaurus-plugin-content-docs</code>, <code>docusaurus-plugin-content-pages</code>, <code>docusaurus-plugin-debug</code>, <code>docusaurus-plugin-google-gtag</code>, <code>docusaurus-plugin-ideal-image</code>, <code>docusaurus-plugin-pwa</code>, <code>docusaurus-plugin-sitemap</code>, <code>docusaurus-remark-plugin-npm2yarn</code>, <code>docusaurus-theme-classic</code>, <code>docusaurus-theme-common</code>, <code>docusaurus-theme-live-codeblock</code>, <code>docusaurus-theme-search-algolia</code>, <code>docusaurus-theme-translations</code>, <code>docusaurus-utils-validation</code>, <code>docusaurus-utils</code>, <code>docusaurus</code>, <code>lqip-loader</code>, <code>stylelint-copyright</code>
 <ul>
@@ -2554,7 +2554,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-23">Committers: 23<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.21#committers-23" class="hash-link" aria-label="Direct link to Committers: 23" title="Direct link to Committers: 23">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-23">Committers: 23<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.21#committers-23" class="hash-link" aria-label="Direct link to Committers: 23" title="Direct link to Committers: 23">​</a></h2>
 <ul>
 <li>Akara (<a href="https://github.com/Messiahhh" target="_blank" rel="noopener noreferrer">@Messiahhh</a>)</li>
 <li>Benjamin Diolez (<a href="https://github.com/BenDz" target="_blank" rel="noopener noreferrer">@BenDz</a>)</li>
@@ -2583,11 +2583,11 @@
         </item>
         <item>
             <title><![CDATA[2.0.0-beta.20]]></title>
-            <link>https://QubitPi.github.io/docusaurus/changelog/2.0.0-beta.20</link>
-            <guid>https://QubitPi.github.io/docusaurus/changelog/2.0.0-beta.20</guid>
+            <link>https://docusaurus.qubitpi.org/changelog/2.0.0-beta.20</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/2.0.0-beta.20</guid>
             <pubDate>Thu, 05 May 2022 20:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.20#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.20#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
 <ul>
 <li><code>docusaurus</code>
 <ul>
@@ -2601,7 +2601,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.20#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="memo-documentation">📝 Documentation<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.20#memo-documentation" class="hash-link" aria-label="Direct link to 📝 Documentation" title="Direct link to 📝 Documentation">​</a></h2>
 <ul>
 <li><a href="https://github.com/facebook/docusaurus/pull/7334" target="_blank" rel="noopener noreferrer">#7334</a> feat(website): make canary release page display actual canary version name (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/7343" target="_blank" rel="noopener noreferrer">#7343</a> docs: add page for create-docusaurus API documentation (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
@@ -2609,7 +2609,7 @@
 <li><a href="https://github.com/facebook/docusaurus/pull/7336" target="_blank" rel="noopener noreferrer">#7336</a> fix(website): fix multiple accessibility issues around color contrast (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
 <li><a href="https://github.com/facebook/docusaurus/pull/7327" target="_blank" rel="noopener noreferrer">#7327</a> docs: add clarity to versioning behavior (<a href="https://github.com/pepopowitz" target="_blank" rel="noopener noreferrer">@pepopowitz</a>)</li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-6">Committers: 6<a href="https://qubitpi.github.io/docusaurus/changelog/2.0.0-beta.20#committers-6" class="hash-link" aria-label="Direct link to Committers: 6" title="Direct link to Committers: 6">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-6">Committers: 6<a href="https://docusaurus.qubitpi.org/changelog/2.0.0-beta.20#committers-6" class="hash-link" aria-label="Direct link to Committers: 6" title="Direct link to Committers: 6">​</a></h2>
 <ul>
 <li>Alexey Pyltsyn (<a href="https://github.com/lex111" target="_blank" rel="noopener noreferrer">@lex111</a>)</li>
 <li>Joshua Chen (<a href="https://github.com/Josh-Cena" target="_blank" rel="noopener noreferrer">@Josh-Cena</a>)</li>
