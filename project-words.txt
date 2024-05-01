@@ -242,6 +242,7 @@ QJPUV
 Qovery
 quasis
 Qubit
+qubitpi
 Quddus
 Quddús
 Quickwit
@@ -295,8 +296,8 @@ Smoosh
 Solana
 solana
 spâce
-Squarespace
 squarespace
+Squarespace
 stackblitz
 stackoverflow
 Stormkit
