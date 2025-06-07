@@ -4,11 +4,79 @@
         <title>Docusaurus changelog</title>
         <link>https://docusaurus.qubitpi.org/changelog</link>
         <description>Keep yourself up-to-date about new features in every release</description>
-        <lastBuildDate>Mon, 26 May 2025 20:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 20:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2025 Facebook, Inc.</copyright>
+        <item>
+            <title><![CDATA[3.8.1]]></title>
+            <link>https://docusaurus.qubitpi.org/changelog/3.8.1</link>
+            <guid>https://docusaurus.qubitpi.org/changelog/3.8.1</guid>
+            <pubDate>Fri, 06 Jun 2025 20:00:00 GMT</pubDate>
+            <description><![CDATA[Bug Fix]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/3.8.1#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
+<ul>
+<li><code>docusaurus-theme-classic</code>
+<ul>
+<li><a href="https://github.com/facebook/docusaurus/pull/11242" target="_blank" rel="noopener noreferrer">#11242</a> fix(theme): fix unability to navigate to category's page when browsing its children items (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+</ul>
+</li>
+<li><code>docusaurus-plugin-css-cascade-layers</code>
+<ul>
+<li><a href="https://github.com/facebook/docusaurus/pull/11241" target="_blank" rel="noopener noreferrer">#11241</a> fix(css-cascade-layers): fix windows css cascade layers bug (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+</ul>
+</li>
+<li><code>docusaurus</code>
+<ul>
+<li><a href="https://github.com/facebook/docusaurus/pull/11222" target="_blank" rel="noopener noreferrer">#11222</a> fix(bundler): fix <code>docusaurus start</code> using <code>concatenateModules: true</code> (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+<li><a href="https://github.com/facebook/docusaurus/pull/11217" target="_blank" rel="noopener noreferrer">#11217</a> fix: include Arc to supported Chromium Browsers (<a href="https://github.com/wellwelwel" target="_blank" rel="noopener noreferrer">@wellwelwel</a>)</li>
+<li><a href="https://github.com/facebook/docusaurus/pull/11205" target="_blank" rel="noopener noreferrer">#11205</a> fix(core): fix <code>docusaurus start</code> error for macOS users with no Chromium-based browser (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+</ul>
+</li>
+<li><code>docusaurus-types</code>
+<ul>
+<li><a href="https://github.com/facebook/docusaurus/pull/11221" target="_blank" rel="noopener noreferrer">#11221</a> fix(types): fix future flags public types (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="running-performance">:running: Performance<a href="https://docusaurus.qubitpi.org/changelog/3.8.1#running-performance" class="hash-link" aria-label="Direct link to :running: Performance" title="Direct link to :running: Performance">​</a></h2>
+<ul>
+<li><code>docusaurus-plugin-content-blog</code>, <code>docusaurus-plugin-sitemap</code>, <code>docusaurus-theme-classic</code>, <code>docusaurus-types</code>, <code>docusaurus-utils</code>, <code>docusaurus</code>
+<ul>
+<li><a href="https://github.com/facebook/docusaurus/pull/11211" target="_blank" rel="noopener noreferrer">#11211</a> perf: avoid duplicated <code>git log</code> calls in <code>loadContent()</code> and <code>postBuild()</code> for untracked Git files (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="wrench-maintenance">🔧 Maintenance<a href="https://docusaurus.qubitpi.org/changelog/3.8.1#wrench-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h2>
+<ul>
+<li><code>docusaurus-faster</code>
+<ul>
+<li><a href="https://github.com/facebook/docusaurus/pull/11248" target="_blank" rel="noopener noreferrer">#11248</a> chore(faster): upgrade Rspack (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+</ul>
+</li>
+<li><code>docusaurus-plugin-content-docs</code>
+<ul>
+<li><a href="https://github.com/facebook/docusaurus/pull/11230" target="_blank" rel="noopener noreferrer">#11230</a> refactor(docs): extract <code>loadVersion()</code> without changing the behavior (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+</ul>
+</li>
+<li>Other
+<ul>
+<li><a href="https://github.com/facebook/docusaurus/pull/11212" target="_blank" rel="noopener noreferrer">#11212</a> chore: upgrade to Node 22 by default (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-7">Committers: 7<a href="https://docusaurus.qubitpi.org/changelog/3.8.1#committers-7" class="hash-link" aria-label="Direct link to Committers: 7" title="Direct link to Committers: 7">​</a></h2>
+<ul>
+<li>Ben McCann (<a href="https://github.com/benmccann" target="_blank" rel="noopener noreferrer">@benmccann</a>)</li>
+<li>Dave Meyer (<a href="https://github.com/dave-meyer" target="_blank" rel="noopener noreferrer">@dave-meyer</a>)</li>
+<li>Léo Vincent (<a href="https://github.com/leovct" target="_blank" rel="noopener noreferrer">@leovct</a>)</li>
+<li>Noritaka Kobayashi (<a href="https://github.com/noritaka1166" target="_blank" rel="noopener noreferrer">@noritaka1166</a>)</li>
+<li>Phil Parsons (<a href="https://github.com/p-m-p" target="_blank" rel="noopener noreferrer">@p-m-p</a>)</li>
+<li>Sébastien Lorber (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
+<li>Weslley Araújo (<a href="https://github.com/wellwelwel" target="_blank" rel="noopener noreferrer">@wellwelwel</a>)</li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[3.8.0]]></title>
             <link>https://docusaurus.qubitpi.org/changelog/3.8.0</link>
@@ -2872,40 +2940,6 @@
 <li>ozaki (<a href="https://github.com/OzakIOne" target="_blank" rel="noopener noreferrer">@OzakIOne</a>)</li>
 <li>sykp241095 (<a href="https://github.com/sykp241095" target="_blank" rel="noopener noreferrer">@sykp241095</a>)</li>
 <li>初冬 (<a href="https://github.com/chudongvip" target="_blank" rel="noopener noreferrer">@chudongvip</a>)</li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2.4.3]]></title>
-            <link>https://docusaurus.qubitpi.org/changelog/2.4.3</link>
-            <guid>https://docusaurus.qubitpi.org/changelog/2.4.3</guid>
-            <pubDate>Wed, 20 Sep 2023 20:00:00 GMT</pubDate>
-            <description><![CDATA[Bug Fix]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="bug-bug-fix">🐛 Bug Fix<a href="https://docusaurus.qubitpi.org/changelog/2.4.3#bug-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h2>
-<ul>
-<li><code>docusaurus-plugin-content-docs</code>
-<ul>
-<li><a href="https://github.com/facebook/docusaurus/pull/9107" target="_blank" rel="noopener noreferrer">#9107</a> fix(content-docs): sidebar generator should return customProps for doc items (<a href="https://github.com/TheCatLady" target="_blank" rel="noopener noreferrer">@TheCatLady</a>)</li>
-</ul>
-</li>
-<li><code>docusaurus-theme-classic</code>
-<ul>
-<li><a href="https://github.com/facebook/docusaurus/pull/9108" target="_blank" rel="noopener noreferrer">#9108</a> feat(theme-classic): add description &amp; keywords microdata to blog posts (<a href="https://github.com/TheCatLady" target="_blank" rel="noopener noreferrer">@TheCatLady</a>)</li>
-<li><a href="https://github.com/facebook/docusaurus/pull/9099" target="_blank" rel="noopener noreferrer">#9099</a> fix(theme): only set classname on ul elements if they have an existing class (<a href="https://github.com/homotechsual" target="_blank" rel="noopener noreferrer">@homotechsual</a>)</li>
-<li><a href="https://github.com/facebook/docusaurus/pull/9243" target="_blank" rel="noopener noreferrer">#9243</a> fix(theme-common): ThemedComponent should display something when JS is disabled (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
-</ul>
-</li>
-<li><code>docusaurus-theme-classic</code>, <code>docusaurus-theme-common</code>
-<ul>
-<li><a href="https://github.com/facebook/docusaurus/pull/9130" target="_blank" rel="noopener noreferrer">#9130</a> fix(theme): canonical url should be not change after hydration if url accessed with/without trailing slash (<a href="https://github.com/ori-shalom" target="_blank" rel="noopener noreferrer">@ori-shalom</a>)</li>
-</ul>
-</li>
-</ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_SSbb" id="committers-4">Committers: 4<a href="https://docusaurus.qubitpi.org/changelog/2.4.3#committers-4" class="hash-link" aria-label="Direct link to Committers: 4" title="Direct link to Committers: 4">​</a></h2>
-<ul>
-<li>Mikey O'Toole (<a href="https://github.com/homotechsual" target="_blank" rel="noopener noreferrer">@homotechsual</a>)</li>
-<li>Ori Shalom (<a href="https://github.com/ori-shalom" target="_blank" rel="noopener noreferrer">@ori-shalom</a>)</li>
-<li>Sébastien Lorber (<a href="https://github.com/slorber" target="_blank" rel="noopener noreferrer">@slorber</a>)</li>
-<li><a href="https://github.com/TheCatLady" target="_blank" rel="noopener noreferrer">@TheCatLady</a></li>
 </ul>]]></content:encoded>
         </item>
     </channel>
